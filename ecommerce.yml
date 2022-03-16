@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000 #하루짜리 토큰  millisecond
+  secret: user_token         #임의값
+
+gateway:
+  ip: 127.0.0.1
