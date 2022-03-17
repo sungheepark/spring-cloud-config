@@ -1,6 +1,6 @@
 token:
-  expiration_time: 864 #864000000 #하루짜리 토큰  millisecond
-  secret: value1 #user_token_ecommerce         #임의값
+  expiration_time: 864000000 #하루짜리 토큰  millisecond
+  secret: my_token #user_token_ecommerce         #임의값
 
 gateway:
   ip: 127.0.0.1  
