@@ -4,3 +4,7 @@ token:
 
 gateway:
   ip: 127.0.0.1  
+
+# $   git  remote   -v 
+# $   git  remote   add   origin   https://github.com/sungheepark/spring-cloud-config.git
+# $   git  push   --set-upstream   origin   master
